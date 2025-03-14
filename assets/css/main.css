@@ -8,6 +8,10 @@ iframe {border: 0;outline: none;}
 ::-moz-selection {background:#000;text-shadow: none;color:#FFF}
 ::selection {background:#000;text-shadow: none;color:#FFF}
 img {max-width: 100%;border: none;outline: none;height: auto;}
+figure .profile-img {max-width: 100%;border-radius: 50%;padding-top: 10px;}
+/* img .profile-img {max-width: 100%; border-radius: 25px; padding-top: 10px;} */
+
+
 input,textarea {border-radius: 0;resize: none;}
 ul {padding: 0;margin: 0;}
 @font-face {
